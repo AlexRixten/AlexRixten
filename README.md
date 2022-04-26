@@ -1,6 +1,6 @@
 <div id="header" style="text-align:center;">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt=""/>
-  
+
   <img
     src="https://komarev.com/ghpvc/?username=AlexRixten&style=flat-square&color=blue" alt=""
   />
@@ -18,8 +18,6 @@ Russia.
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on Сodewars and read tech articles.
-
-<!-- - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url) -->
 
 ---
 
