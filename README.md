@@ -13,7 +13,7 @@
   </div>
 
   <img
-    src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""
+    src="https://komarev.com/ghpvc/?username=AlexRixten&style=flat-square&color=blue" alt=""
   />
   
   ### Hi there 👋
