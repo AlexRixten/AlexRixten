@@ -1,9 +1,7 @@
-<div id="header" style="text-align:center;">
+<div id="header" style="display: flex; align-items: center; flex-direction: column">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt=""/>
 
-  <img
-    src="https://komarev.com/ghpvc/?username=AlexRixten&style=flat-square&color=blue" alt=""
-  />
+  <img src="https://komarev.com/ghpvc/?username=AlexRixten&style=flat-square&color=blue" alt="" />
   
   ### Hi there 👋
 </div>
