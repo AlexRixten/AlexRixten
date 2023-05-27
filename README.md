@@ -1,16 +1,20 @@
-<div id="header" style="display: flex; align-items: center; flex-direction: column; justify-content: center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt=""/>
+<div id="header" align="center">
+  <div>
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt=""/>
+  </div>
 
   <img src="https://komarev.com/ghpvc/?username=AlexRixten&style=flat-square&color=blue" alt="" />
-  
-  ### Hi there 👋
+
+### Hi there 👋
+
 </div>
 
 ### :man_technologist: About Me :
 
 I am a React Developer
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /> from
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /> from
 Russia.
+
 - :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
