@@ -1,7 +1,18 @@
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3884FF,90:0032A8&height=190&section=header&text=Aleksei%20Kharitonov&desc=frontend%20developer&animation=fadeIn&fontColor=fff&fontSize=45&fontAlign=76&fontAlignY=40&descSize=16&descAlign=82.5&descAlignY=16"/>
+</div>
+
+<p align="center"><a href="https://t.me/AlexRixten" target="_blank">
+    <img src="https://img.shields.io/badge/-telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
+  </a>
+  <a href="https://www.linkedin.com/in/alex-kharitonov-4b0474261/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Twitter Badge">
+  </a></p>
+
 <div id="header" align="center">
-  <div>
+<!--   <div>
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt=""/>
-  </div>
+  </div> -->
 
   <img src="https://komarev.com/ghpvc/?username=AlexRixten&style=flat-square&color=blue" alt="" />
 
@@ -9,7 +20,7 @@
 
 </div>
 
-### :man_technologist: About Me :
+### About Me :
 
 I am a React Developer
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /> from
@@ -23,7 +34,7 @@ Russia.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
@@ -45,7 +56,7 @@ Russia.
 
 ---
 
-### :fire: My Stats :
+### My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlexRixten&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
