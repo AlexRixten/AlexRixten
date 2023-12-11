@@ -5,7 +5,7 @@
 <p align="center"><a href="https://t.me/AlexRixten" target="_blank">
     <img src="https://img.shields.io/badge/-telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge">
   </a>
-  <a href="https://www.linkedin.com/in/alex-kharitonov-4b0474261/" target="_blank">
+  <a href="https://www.linkedin.com/in/alex-rixten/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Twitter Badge">
   </a></p>
 
@@ -58,5 +58,11 @@ Russia.
 
 ### My Stats :
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexRixten&show_icons=true&theme=dark) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlexRixten&theme=dark&hide_border=true)](https://git.io/streak-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexRixten&&layout=compact&hide_border=true&title_color=494&text_color=888&bg_color=0000)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexRixten&show_icons=true&theme=dark)](https://github.com/AlexRixten?tab=repositories)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlexRixten&theme=dark&hide_border=true)](https://github.com/AlexRixten?tab=repositories) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexRixten&&layout=compact&hide_border=true&title_color=494&text_color=888&bg_color=0000)](https://github.com/AlexRixten?tab=repositories)
+
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3884FF,90:0032A8&height=120&section=footer&animation=fadeIn&fontColor=fff&fontSize=14&fontAlign=50&fontAlignY=80&descSize=20&descAlign=84&descAlignY=43"/>
+</div>
 
