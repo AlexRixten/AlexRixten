@@ -30,7 +30,7 @@ Russia.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on Сodewars and read tech articles.
+- :zap: In my free time, I solve problems on [Сodewars](https://www.codewars.com/users/Alex%20Rixten) and read tech articles.
 
 ---
 
@@ -58,6 +58,5 @@ Russia.
 
 ### My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlexRixten&theme=dark&hide_border=true)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexRixten&show_icons=true&theme=dark) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlexRixten&theme=dark&hide_border=true)](https://git.io/streak-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexRixten&&layout=compact&hide_border=true&title_color=494&text_color=888&bg_color=0000)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexRixten&show_icons=true&theme=dark)
