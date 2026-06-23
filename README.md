@@ -69,6 +69,7 @@ aleksei@portfolio:~$ cat currently.json
 ### ✍️ Writing
 
 > 📝 [How We Lost 9 Months to Invisible Architecture Decay (and Fixed It in 3)](https://hackernoon.com/how-we-lost-9-months-to-invisible-architecture-decay-and-fixed-it-in-3) — *HackerNoon*
+> 📝 [Your AI Chat Will Break in Production: 3 Lifecycle Bugs Nobody Warns You About)](https://hackernoon.com/your-ai-chat-will-break-in-production-3-lifecycle-bugs-nobody-warns-you-about) — *HackerNoon*
 
 ---
 
